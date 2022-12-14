@@ -177,6 +177,29 @@ function App() {
           </div>
         </div>
       </main>
+      <footer>
+        <p className="text-center">
+          Challenge by
+          <a
+            className="text-soft-orange ml-1 hover:text-soft-red"
+            href="https://www.frontendmentor.io?ref=challenge"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Frontend Mentor
+          </a>
+          . Coded by
+          <a
+            className="text-soft-orange ml-1 hover:text-soft-red"
+            href="https://www.frontendmentor.io/profile/Ahmed96Mah"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Ahmed Mahmoud Abdalwahab
+          </a>
+          .
+        </p>
+      </footer>
     </div>
   );
 }
